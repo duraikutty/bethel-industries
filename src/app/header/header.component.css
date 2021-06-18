@@ -1,12 +1,4 @@
-.example-main-spacer {
-  flex: 1 1 auto;
-}
-
-.example-spacer {
-  flex: .02 .5 auto;
-}
-
-a, a:hover, a:focus, a:active {
-  text-decoration: none;
-  color: inherit;
+.logo {
+  padding: 0px 5px;
+  font-size: 20px;
 }
